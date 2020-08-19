@@ -5,7 +5,7 @@ namespace Sfneal\ViewModels\Precache;
 use Sfneal\Queueables\AbstractJob;
 use Sfneal\ViewModels\AbstractViewModel;
 
-class CacheViewJob extends AbstractJob
+class PreCacheViewModel extends AbstractJob
 {
     /**
      * @var int Number of seconds to delay dispatchment by
