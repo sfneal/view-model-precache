@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Sfneal\ViewModels\Precache;
-
 
 use Sfneal\Queueables\AbstractJob;
 use Sfneal\ViewModels\AbstractViewModel;
@@ -49,7 +47,7 @@ class CacheViewJob extends AbstractJob
     }
 
     /**
-     * Send a GuzzleHttp get request (intended for pre-caching a views)
+     * Send a GuzzleHttp get request (intended for pre-caching a views).
      *
      * @return mixed
      */
