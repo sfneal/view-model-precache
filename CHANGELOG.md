@@ -8,3 +8,7 @@ All notable changes to `view-models-precache` will be documented in this file
 
 ## 0.1.1 - 2020-08-19
 - refactored CacheViewJob to PreCacheViewModel
+
+
+## 0.2.0 - 2020-09-14
+- add support for Laravel 8
