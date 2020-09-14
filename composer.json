@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.2",
         "sfneal/queueables": "^0.1.0",
         "sfneal/view-models": "^0.1.1"
     },
