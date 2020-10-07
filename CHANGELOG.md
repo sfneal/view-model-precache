@@ -16,3 +16,4 @@ All notable changes to `view-models-precache` will be documented in this file
 
 ## 0.3.0 - 2020-10-07
 - add support for php 7.1
+- bump sfneal/view-models min version
