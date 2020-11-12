@@ -1,6 +1,6 @@
 {
     "name": "sfneal/view-models-precache",
-    "description": "Boilerplate for PHP package repo's",
+    "description": "Dispatchable ViewModel precaching for Laravel Applications.",
     "keywords": [
         "sfneal",
         "view-models-precache"
