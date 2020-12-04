@@ -21,3 +21,7 @@ All notable changes to `view-models-precache` will be documented in this file
 
 ## 0.3.1 - 2020-12-01
 - fix Travis CI integration testing
+
+
+## 0.3.2 - 2020-12-04
+- fix Travis CI integration testing by disabling xdebug 3
