@@ -25,3 +25,7 @@ All notable changes to `view-models-precache` will be documented in this file
 
 ## 0.3.2 - 2020-12-04
 - fix Travis CI integration testing by disabling xdebug 3
+
+
+## 0.4.0 - 2020-12-11
+- add support for php8
