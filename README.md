@@ -1,7 +1,8 @@
 # View Models Pre-Cache
 
+[![Packagist PHP support](https://img.shields.io/packagist/php-v/sfneal/view-models-precache)](https://packagist.org/packages/sfneal/view-models-precache)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sfneal/view-models-precache.svg?style=flat-square)](https://packagist.org/packages/sfneal/view-models-precache)
-[![Build Status](https://img.shields.io/travis/sfneal/view-models-precache/master.svg?style=flat-square)](https://travis-ci.org/sfneal/view-models-precache)
+[![Build Status](https://travis-ci.com/sfneal/view-models-precache.svg?branch=master&style=flat-square)](https://travis-ci.com/sfneal/view-models-precache)
 [![Quality Score](https://img.shields.io/scrutinizer/g/sfneal/view-models-precache.svg?style=flat-square)](https://scrutinizer-ci.com/g/sfneal/view-models-precache)
 [![Total Downloads](https://img.shields.io/packagist/dt/sfneal/view-models-precache.svg?style=flat-square)](https://packagist.org/packages/sfneal/view-models-precache)
 
@@ -12,7 +13,7 @@ Dispatchable ViewModel precaching for Laravel Applications
 You can install the package via composer:
 
 ```bash
-composer require sfneal/view-models-precache
+composer require sfneal/view-models-precache-precache
 ```
 
 ## Usage
