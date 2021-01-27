@@ -29,3 +29,8 @@ All notable changes to `view-models-precache` will be documented in this file
 
 ## 0.4.0 - 2020-12-11
 - add support for php8
+
+
+## 0.5.0 - 2021-01-27
+- bump composer dependencies min versions to stable production versions (1.0)
+- add badges to readme
